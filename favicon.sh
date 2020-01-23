@@ -21,3 +21,5 @@ do
     :
     convert $1 -resize $ix$i $2/favicon-$i.png
 done
+
+convert $1 -resize 196x196 $2/favicon.ico
