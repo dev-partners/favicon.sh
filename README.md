@@ -29,6 +29,6 @@ favicon.sh creates PNG files for the following pixel sizes in addition to one ge
 32x32, 128x128, 152x152, 167x167, 180x180, 192x192, 196x196 
 
 
-⚠️ ## Warnings
+## ⚠️ Warnings
 
-This is still a very new project, so use at your own risk. It is recommended not to run this script using `sudo` or as `root`.
+This is still a very new project, so use this script at your own risk. It is recommended not to run this script using `sudo` or as `root`.
